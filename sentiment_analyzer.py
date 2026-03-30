@@ -7,8 +7,6 @@ Classifies text reviews as Positive, Negative, or Neutral
 using TF-IDF vectorization and multiple ML classifiers.
 """
 
-#Add main sentiment analyzer code"
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
