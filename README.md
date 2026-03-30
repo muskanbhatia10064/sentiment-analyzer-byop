@@ -1,4 +1,4 @@
-# 💬 Sentiment Analyzer using NLP & Machine Learning
+# Sentiment Analyzer using NLP & Machine Learning
 
 > BYOP Project | CSA2001 – Fundamentals in AI and ML | VIT Bhopal
 
@@ -35,7 +35,7 @@ Given a product review in plain English, the system:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 sentiment_analyzer/
